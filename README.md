@@ -31,14 +31,14 @@ This assignment should prove that a student is able to:
 - [ x] Clone the project to your computer
 - [ x] Open the project in VSCode with `code <cloned_repo_folder_name>`
 - [ x] Initialize playwright and install project packages
-  - [ x] Use `npm i` to install packages
-  - [ x] Use `npm run browser-install` to install the browser environment for testing (131mb will be downloaded)
-  - [ x] (Windows users only) Use `npm run deps-install` to install playwright additional dependencies (160mb will be downloaded)
+  - [ xx] Use `npm i` to install packages
+  - [ xx] Use `npm run browser-install` to install the browser environment for testing (131mb will be downloaded)
+  - [ xx] (Windows users only) Use `npm run deps-install` to install playwright additional dependencies (160mb will be downloaded)
 - [ x] All the tasks of the "Specific requirements" section MUST be solved
 - [ x] All the tests MUST pass. Fix the errors in case any tests don't pass BEFORE you submit (acceptance criteria)
-  - [ x] Use `npm run test` to run all tests in the terminal
-  - [ x] (Optional) Use `npm run test-ui` to run all the tests with GUI
-  - [ x] (Optional) Use `npm run show-report` to see the latest report in the browser
+  - [ xx] Use `npm run test` to run all tests in the terminal
+  - [ xx] (Optional) Use `npm run test-ui` to run all the tests with GUI
+  - [ xx] (Optional) Use `npm run show-report` to see the latest report in the browser
 - [ x] VSCode IDE MUST have 0 code problems listed (spelling problems are fine)
 - [ x] The code MUST be formatted with Prettier
 - [ x] Push the changes to the Github repo, when finished.
